@@ -15,7 +15,6 @@
   left: 0;
   bottom: 0;
   right: 0;
-  width: 100;
   text-align: left;
   padding: 3px;
   background: #814b25;
@@ -39,7 +38,6 @@ body {
 
 .links{
   text-align: center;
-  align-content: center;
 }
 
 a{
@@ -65,7 +63,7 @@ h2{
   background-color:  #663e25;
   color: wheat;
   padding: 20px;     
-  width: 1000px; 
+  width: 50%; 
   box-sizing: border-box; 
-  margin-left: 550px;
+  margin-left: 25%;
 }
